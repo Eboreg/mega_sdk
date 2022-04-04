@@ -106,6 +106,9 @@ megaclient_statecache*
 build-*Debug
 build-*Release
 *.pro.user*
+/build/
+/make.log
+/include/config.h
 
 # Mega SDK runtime
 *.db-journal
